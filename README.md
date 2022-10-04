@@ -22,8 +22,8 @@ Ashton is a senior in Computer Science. Over the past two years, he has held int
 Chase is a senior in computer science. Who has experience working in IOS app development. With experience in both front-end using swiftui and back-end development using javascript. Chase also has worked with firebase for user login, authentication and storage. 
 
 
-### Mentor:
-Damian Vu
+## Mentor:
+### Damian Vu
 Damian is a software engineer at Tradebot, a high frequency trading company that utilizes algorithms and applied statistics to inform their trading strategies. He works closely with many aspects of the company’s data visualizations, live data graphs, website, and data collection, as well as many other areas of experience. Both Ashton and Devynne were able to work with Damian over the summer during their internship with Tradebot. Damian is a very knowledgeable programmer and a great teacher who is full of expertise in the area of how programming and stocks intersect. For these reasons, Damian Vu has been chosen as our mentor.
 
 ## Introduction: 
